@@ -1,6 +1,6 @@
 Graficos por Computadora
 
-Nombre: Proyecto 2
+Nombre: Práctica 2
 
 Nombre del archivo: pra2.c
 
