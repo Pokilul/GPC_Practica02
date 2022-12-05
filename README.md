@@ -4,7 +4,7 @@ Nombre: Práctica 2
 
 Nombre del archivo: pra2.c
 
-Fecha: 10-11-2022
+Fecha: 06-12-2022
 
 Universidad de Guanajuato - División de Ingenierías Campus Irapuato-Salamanca
 
